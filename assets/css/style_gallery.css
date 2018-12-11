@@ -53,3 +53,22 @@ footer {
 /* ------------------------------------------------ */
 /* Always include above */
 
+
+.gallery-container {
+	margin-bottom: 30px;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+#img-tmb-red {
+	border: 1px solid #fe0002;
+	margin: 10px;
+}
+
+#img-tmb-red:hover {
+	border: 1px solid #009d02;
+	background-color: #009d02;
+}
+
