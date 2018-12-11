@@ -2,6 +2,11 @@ body {
 	font-family: 'Poppins', 'sans-serif';
 }
 
+#nav-hover:hover {
+	border-bottom: 2px solid green;
+	color: #f71f47;
+}
+
 #link {
 	text-decoration: none;
 	color: #f71f47;

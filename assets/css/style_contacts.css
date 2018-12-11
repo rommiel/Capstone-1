@@ -2,6 +2,11 @@ body {
 	font-family: 'Poppins', 'sans-serif';
 }
 
+#nav-hover:hover {
+	border-bottom: 2px solid green;
+	color: #f71f47;
+}
+
 .section-container {
 	padding-top: 100px;
 	padding-bottom: 20px;
@@ -95,4 +100,13 @@ footer {
 	padding-top: 30px;
 	color: #C0C0C0;
 	font-size: 20px;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+a i {
+	text-decoration: none !important;
+	color: #FFF;
 }
