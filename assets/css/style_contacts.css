@@ -64,6 +64,10 @@ footer {
 	height: 300px;
 }
 
+.w100 {
+	width: 100%;
+}
+
 #map-loc {
 	width: 100%;
 }
