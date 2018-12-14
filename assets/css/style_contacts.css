@@ -61,11 +61,15 @@ footer {
 /*Flesh color #e98866*/
 
 #message {
-	height: 300px;
+	height: 298px;
 }
 
 .w100 {
-	width: 100%;
+	width: 98%;
+	resize: none;
+	/*max-height: 300px;
+	height: 100%;*/
+	border: 1px solid #ced4da;
 }
 
 #map-loc {
